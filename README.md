@@ -3,7 +3,7 @@
 
 ![](Weatherbox-JD-Edition-1500px.jpg)
 
-This is a remake of [khanhas](https://forum.rainmeter.net/viewtopic.php?t=24597)' Weatherbox skin, which has unfortunately been broken for several years and neglected by the original artist. Now, there's a new one ;)
+This is a remake of [khanhas](https://forum.rainmeter.net/viewtopic.php?t=24597)' Weatherbox skin, which has unfortunately been broken for several years and neglected by the original artist. Now, there's a new one, with a _very_ nice loading animation ;)
 
 As always, right-click the skin and hit "Settings..." to change the settings.
 
